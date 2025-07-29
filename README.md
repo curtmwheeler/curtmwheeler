@@ -1,5 +1,5 @@
 ---
-### AI Researcher, founder ([MedifyAI](https://medifyai.ai)), and computer scientist.
+### AI Researcher, founder ([MedifyAI](https://medifyai.com)), and computer scientist.
 
 ---
 
