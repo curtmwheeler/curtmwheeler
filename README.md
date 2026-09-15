@@ -1,4 +1,4 @@
-# Curt M. Wheeler — English
+# Curt Wheeler
 
 I'm the founder and CEO of [MedifyAI](https://medifyai.com) and a University of Miami student studying data science, artificial intelligence, and mathematics, with minors in Chinese and economics.
 
@@ -7,7 +7,7 @@ I'm the founder and CEO of [MedifyAI](https://medifyai.com) and a University of 
 
 ---
 
-# Curt M. Wheeler — 中文
+# 柯特·惠勒
 
 我是 [MedifyAI](https://medifyai.com) 的创始人兼 CEO，目前在迈阿密大学学习数据科学、人工智能和数学，辅修中文和经济学。
 
