@@ -1,17 +1,15 @@
-# Curt M. Wheeler - EN
+# Curt M. Wheeler — English
 
-AI researcher, founder, and computer scientist — building practical ML systems and products that bring research into real-world impact.
+I'm the founder and CEO of [MedifyAI](https://medifyai.com) and a University of Miami student studying data science, artificial intelligence, and mathematics, with minors in Chinese and economics.
 
-- Founder & CEO — [MedifyAI](https://medifyai.com)
-- Research focus: scalable machine learning, applied deep learning, and trustworthy AI
-- Interests: healthcare ML, production ML systems, model evaluation, and developer tools
+* **Technical interests:** deep learning, computer vision, and backend systems
+* **Outside of tech:** sailing, languages, and economics
 
 ---
 
-# Curt M. Wheeler - 中文
+# Curt M. Wheeler — 中文
 
-人工智能研究员、创始人兼计算机科学家——致力于构建实用的机器学习系统与产品，将研究转化为实际影响力。
+我是 [MedifyAI](https://medifyai.com) 的创始人兼 CEO，目前在迈阿密大学学习数据科学、人工智能和数学，辅修中文和经济学。
 
-- 创始人兼CEO — MedifyAI
-- 研究方向：可扩展机器学习、应用深度学习与可信人工智能
-- 关注领域：医疗机器学习、生产级机器学习系统、模型评估与开发者工具
+* **技术兴趣：** 深度学习、计算机视觉和后端系统
+* **技术之外：** 帆船、语言学习和经济学
